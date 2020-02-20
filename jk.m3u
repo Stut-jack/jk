@@ -5,11 +5,11 @@
 #EXTINF:0,TRANS TV
 http://202.80.222.174/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:0,TRANS7 HD
-http://stream-04.sg1.dailymotion.com/dm/3/x6p1gw7/live-2.m3u8
+#EXTINF:0,I NEWS TV
+https://liveanevia.mncnow.id/live/eds/iNewsTV/sa_hls/iNewsTV-avc1_1000000\u003d7-mp4a_98800_eng\u003d5.m3u8
 
 #EXTINF:0,RCTI 
-http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
+http://165.22.104.84:25461/live/mymovon/mymovon/1.m3u8
 
 #EXTINF:0,SCTV 
 http://202.80.222.178/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
@@ -27,7 +27,7 @@ http://202.80.222.175/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=0
 http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
 
 #EXTINF:0,MNC TV
-http://202.80.222.182/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
+http://165.22.104.84:25461/live/mymovon/mymovon/4.m3u8
 
 #EXTINF:0,RAJAWALI TV
 http://202.80.222.170/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com
@@ -68,8 +68,8 @@ http://36.89.47.217:11935/rrinet/live/index.m3u8
 #EXTINF:0,DANGDUT
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
 
-#EXTINF:0,ELSHINTA
-http://210.210.155.35/qwr9ew/s/s10/01.m3u8
+#EXTINF:0,GTV
+https://liveanevia.mncnow.id/live/eds/GlobalTV/sa_hls/GlobalTV-avc1_1000000\u003d8-mp4a_98800_eng\u003d5.m3u8
 
 #EXTINF:0,JTV SURABAYA
 http://202.80.222.175/000001/2/ch00000090990000001731/index.m3u8?virtualDomain=000001.live_hls.zte.com

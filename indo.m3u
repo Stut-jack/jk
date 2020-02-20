@@ -1,19 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1,TVRI NASIONAL
-http://ott.TVri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(03)/index.m3u8
-#EXTINF:-1,TVRI 3 BUDAYA
-http://ott.TVri.co.id/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
-#EXTINF:-1,TVRI Sport
-http://ott.TVri.co.id/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-#EXTINF:-1,RCTI
-http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1,RCTI HD
-https://edge.okezone.com/live/rctioke.m3u8
-#EXTINF:-1,MNC
-http://202.80.222.171:80/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1,ANTV
-http://202.80.222.130/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
+http://id2.indostreamingtv.com/live/antv/index.m3u8
+#EXTINF:-1,MNC
+http://ott.TVri.co.id/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+#EXTINF:-1,THRILL
+http://210.210.155.35/session/c8eeb310-53d1-11ea-bc9c-9d869ab4b7c9/qwr9ew/s/s33/index.m3u8
+#EXTINF:-1,TVRI
+http://210.210.155.35/qwr9ew/s/s11/01.m3u8
+
+#EXTINF:-1,ANTV
+
 #EXTINF:-1,SCTV
 http://202.80.222.178/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1,INDOSIAR
